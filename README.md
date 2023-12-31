@@ -4,6 +4,10 @@
 
 The proliferation of computer viruses poses a dangerous threat to our modern society. As we increasingly rely on computers and other intelligent machinery to perform both complex and simple tasks within our daily lives, the security of these devices is of paramount importance. This study addresses the persistent threats by attempting to discover new and unresearched vulnerabilities that may continue to linger in our systems. By exploring and exploiting the emerging trend of backdoor exploits, this research seeks to contribute to the defense of our digital infrastructure.
 
+The main paper for this project can be found here: FinalDissertation.pdf
+
+
+
 ## Table of Contents
 
 - [Installation](#installation)
