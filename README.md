@@ -21,10 +21,15 @@ The proliferation of computer viruses poses a dangerous threat to our modern soc
 Ensure to download the portable version of Notepad++.
 
 https://www.virtualbox.org/wiki/Downloads
+
 https://www.kali.org/get-kali/#kali-platforms
+
 https://visualstudio.microsoft.com/downloads/
+
 https://www.microsoft.com/en-gb/software-download/windows10
+
 https://notepad-plus-plus.org/downloads/
+
 http://www.angusj.com/resourcehacker/#download
 
 
