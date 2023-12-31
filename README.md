@@ -19,17 +19,13 @@ The proliferation of computer viruses poses a dangerous threat to our modern soc
 
 1) Software: Links for all of the software used in this experiment can be found in figure 20, page 28.
 Ensure to download the portable version of Notepad++.
-h t t p s : / / www. v i r t u a l b o x . org / wi ki / Downloads
 
-h t t p s : / / www. k a l i . org / get − k a l i / # k a l i − p l a t f o r m s
-
-h t t p s : / / v i s u a l s t u d i o . m i c r o s o f t . com / downloads /
-
-h t t p s : / / www. m i c r o s o f t . com / en −gb / s o f t w a r e −download / windows10
-
-h t t p s : / / notepad − plus − p l u s . org / downloads /
-
-h t t p : / / www. a n g u s j . com / r e s o u r c e h a c k e r / # download
+https://www.virtualbox.org/wiki/Downloads
+https://www.kali.org/get-kali/#kali-platforms
+https://visualstudio.microsoft.com/downloads/
+https://www.microsoft.com/en-gb/software-download/windows10
+https://notepad-plus-plus.org/downloads/
+http://www.angusj.com/resourcehacker/#download
 
 
 An in-depth installtion guide can be found on page 28 onwards within the dissertation document.
