@@ -17,7 +17,7 @@ The proliferation of computer viruses poses a dangerous threat to our modern soc
 
 ## Installation
 
-1) Software: Links for all of the software used in this experiment can be found in figure 20, page 28.
+Links for all the software required to run this experiment properly can be found below, except for BatToExe. The code for this can be found at BatToExe.bat.
 Ensure to download the portable version of Notepad++.
 
 https://www.virtualbox.org/wiki/Downloads
